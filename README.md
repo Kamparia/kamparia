@@ -7,27 +7,27 @@
 
 ### Data & Cloud Solutions Engineer.
 
-👋 I'm a Senior Data Engineer with 8+ years of experience of experience designing, developing, and maintaining robust data pipelines and infrastructure in the Cloud. 
+👋 I’m a Senior Data Engineer with over 8 years of experience designing, developing, and maintaining robust data pipelines and infrastructure in the Cloud. 
 
-💯 I am passionate about leveraging data to drive business success. My expertise lies in transforming raw data into actionable insights, leveraging cutting-edge technologies and methodologies to optimise data processing, storage, and analysis.
+💯 Passionate about leveraging data to drive business success, I specialize in transforming raw data into actionable insights. My expertise includes optimizing data processing, storage, and analysis using cutting-edge technologies and methodologies.
 
 ✨ Core Strengths & Interest:
 
-- Building and optimising ETL & ELT data pipelines.
-- Designing and managing data warehouses and data lakes.
-- Designing and implementing scalable data architectures for high-volume data.
+- Building and optimizing ETL & ELT data pipelines.
+- Designing, modeling, and managing data warehouses and data lakes.
+- Implementing scalable data architectures for high-volume data.
 - Ensuring data quality and integrity through robust data governance practices.
-- Using AI/ML tools to generate actionable insights based on identified patterns.
-- Collaborating effectively with cross-functional teams (data analysts, data scientists, ML engineers, business stakeholders etc.) to achieve data-driven goals.
+- Using AI/ML algorithms and tools to generate actionable insights based on identified patterns.
+- Collaborating effectively with cross-functional teams (data analysts, data scientists, ML engineers, business stakeholders, etc.) to achieve data-driven goals.
 
 ✅ Key Technologies Used:
 
-- Databases: BigQuery, Redshift, Databricks, PostgreSQL, MongoDB... you name it!
-- Big Data & Frameworks: Apache Spark, Kafka, Beam (Dataflow), Airflow, dbt and more ️
-- Cloud Platforms: AWS, Azure, GCP - I've got few certifications to prove it!
-- Data Visualization: Power BI, Tableau, Looker - making data sing!
+- Data Warehouses: BigQuery, Redshift, Databricks, Snowflake, PostgreSQL, MongoDB... you name it!
+- Big Data & Frameworks: Apache Spark, Apache Kafka, Apache Beam (Dataflow), Airflow, dbt, and more.
+- Cloud Platforms: AWS, Google Cloud, Microsoft Azure, and Databricks - I've got a few certifications to prove it!
+- Data Visualization: Power BI, Tableau, Looker, Amazon QuickSight, Streamlit - making data sing!
 - Programming Languages: Python & SQL (my favorites), Go, Java, R, and the whole gang.
-- DevOps & Other Tools: Linux, Docker, GitHub Actions, Terraform, PySpark, and APIs - all in my toolbox
+- DevOps & Other Tools: Linux, Docker, GitHub Actions, Terraform, PySpark, and FastAPI - all in my toolbox
 
 👉 I thrive in dynamic environments where innovation is paramount.
 
